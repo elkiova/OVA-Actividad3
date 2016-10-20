@@ -13,6 +13,8 @@ Para la presente tarea el grupo colaborativo desarrollara las siguientes activid
 	---Solicité información del listado en el foro colaborativo
 
 	---El Director nos permitio el Listado via Skipe y en compañia del compañero Jorge se eligio el tema Introducción al desarrollo del software.
+	
+	---Ok
 
 5.  El sitio web debe contar con las siguientes secciones:
  
