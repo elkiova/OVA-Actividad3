@@ -5,10 +5,14 @@ Para la presente tarea el grupo colaborativo desarrollara las siguientes activid
 1.  El grupo creara con la plantilla seleccionada por el director de curso como la mejor de la actividad 2, un sitio web que servirá como Objeto Virtual de Aprendizaje OVA para uno de los cursos del programa Tecnología en Desarrollo de Software que oferta la Universidad UNAD. 
 2.  La Plantilla para la construcción del sitio web del OVA, será asignada por el director del curso y se colocara como enlace de descarga en el foro de la actividad. 
 3.  El grupo creará un repositorio colaborativo en GITHUB, donde todos los estudiantes del grupo apoyaran la construcción del sitio web del OVA, para luego publicar este repositorio como un sitio web de Github Pages.
+	
 	---Repositorio creado OK
-4.  El  director  del  curso  suministrará  un  listado  de  cursos  del  programa  Tecnología  en Desarrollo  de  Software  con  algunas  temáticas  de  estos  mismos,  para  que  el  grupo colaborativo seleccione una de estas como tema de construcción del sitio web de la OVA que se entregará como producto final. 
+
+	4.  El  director  del  curso  suministrará  un  listado  de  cursos  del  programa  Tecnología  en Desarrollo  de  Software  con  algunas  temáticas  de  estos  mismos,  para  que  el  grupo colaborativo seleccione una de estas como tema de construcción del sitio web de la OVA que se entregará como producto final. 
+
 	---Solicité información del listado en el foro colaborativo
-5.  El sitio web debe contar con las siguientes secciones: 
+
+	5.  El sitio web debe contar con las siguientes secciones: 
 •	INICIO: página principal del sitio, debe mostrar información general sobre el OVA, los objetivos del OVA, el curso y las temáticas al cual hace referencia.
 •	LECTURAS: deben  ser  mínimo tres  (3) páginas, las  cuales serán  accedidas  como elementos de sub - ítems de menú de esta sección. En estas se presentarán contenidos para  lectura  de  autoría  del  grupo  sobre  la  temática  que  han  escogido  para  la construcción del sitio web del OVA . Estos contenidos deben contar con imágenes de apoyo, se deben citar las fuentes bibliográficas y las imágenes que use el grupo para construir sus contenidos de lectura para el sitio. 
 •	MULTIMEDIA: debe ser mínimo una (1) página en la cual el grupo publicara contenido multimedia, audio (Podcast) y vídeo (Vídeo de Youtube) de autoría propia sobre la temática que han escogido para la construcción del sitio web del OVA. 
