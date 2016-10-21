@@ -6,15 +6,13 @@ Para la presente tarea el grupo colaborativo desarrollara las siguientes activid
 2.  La Plantilla para la construcción del sitio web del OVA, será asignada por el director del curso y se colocara como enlace de descarga en el foro de la actividad. 
 3.  El grupo creará un repositorio colaborativo en GITHUB, donde todos los estudiantes del grupo apoyaran la construcción del sitio web del OVA, para luego publicar este repositorio como un sitio web de Github Pages.
 	
-	---Repositorio creado OK
+		---Repositorio creado OK
 
 4.  El  director  del  curso  suministrará  un  listado  de  cursos  del  programa  Tecnología  en Desarrollo  de  Software  con  algunas  temáticas  de  estos  mismos,  para  que  el  grupo colaborativo seleccione una de estas como tema de construcción del sitio web de la OVA que se entregará como producto final. 
 
-	---Solicité información del listado en el foro colaborativo
-
-	---El Director nos permitio el Listado via Skipe y en compañia del compañero Jorge se eligio el tema Introducción al desarrollo del software.
-	
-	---Ok
+		---Solicité información del listado en el foro colaborativo
+		---El Director nos permitio el Listado via Skipe y en compañia del compañero Jorge se eligio el tema Introducción al desarrollo del software.
+		---Ok
 
 5.  El sitio web debe contar con las siguientes secciones:
  
