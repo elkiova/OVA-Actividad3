@@ -19,11 +19,16 @@ Para la presente tarea el grupo colaborativo desarrollara las siguientes activid
 5.  El sitio web debe contar con las siguientes secciones:
  
 	•	INICIO: página principal del sitio, debe mostrar información general sobre el OVA, los objetivos del OVA, el curso y las temáticas al cual hace referencia.
+	
+		---Ajusté y organicé código, revisé errores de la plantilla, ajusté estilos.
+	
 	•	LECTURAS: deben  ser  mínimo tres  (3) páginas, las  cuales serán  accedidas  como elementos de sub - ítems de menú de esta sección. En estas se presentarán contenidos para  lectura  de  autoría  del  grupo  sobre  la  temática  que  han  escogido  para  la construcción del sitio web del OVA . Estos contenidos deben contar con imágenes de apoyo, se deben citar las fuentes bibliográficas y las imágenes que use el grupo para construir sus contenidos de lectura para el sitio. 
 	•	MULTIMEDIA: debe ser mínimo una (1) página en la cual el grupo publicara contenido multimedia, audio (Podcast) y vídeo (Vídeo de Youtube) de autoría propia sobre la temática que han escogido para la construcción del sitio web del OVA. 
 	•	ACTIVIDADES: deben ser mínimo tres (2) páginas, las cuales serán accedidas como elementos de sub - ítems de menú de esta sección. En estas se publicaran mínimo 5 actividades académicas en línea tipo scorm las cuales servirán como actividades re refuerzo interactivas que  tendrá el OVA para sus usuarios. 
 	•	AUTORES : debe ser mínimo una (1) página en la cual el grupo publicará la información relacionada con los Autores del OVA, para esto se debe organizar un bloque por cada estudiante  que  participo  en  la  actividad  donde  se  publique:  Nombre,  Código, Programa, Correo Electrónico, Usuario Skype, y Fotografía reciente. 
 
+		---Teniendo en cuenta la página index.html ajustada, cree las páginas lecturas, multimedia, actividades y autores.
+	
 6.  El grupo deberá entregar así no participen todo los estudiantes,  el sitio web del OVA completo con todas sus secciones, contenidos y elementos de diseño. 
 7.  El sitio web debe contar con un contador de visitas. 
 8.  El sitio web debe contar con un módulo de la red social TWITTER, donde se presente información del perfil oficial de la UNAD . 
